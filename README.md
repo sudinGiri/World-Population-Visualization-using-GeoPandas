@@ -62,11 +62,12 @@ Run each cell in the notebook to:
 **Project Structure**
 
 .
+
 ├── World_population_using_geopandas.ipynb  # Main notebook for visualization
 
 ├── README.md                              # Project documentation
 
-└── example_map.png                         # Example output image (if available)
+└── example_map.png                         # Example output image
 
 **Contributing**
 
