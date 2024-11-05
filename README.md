@@ -36,24 +36,26 @@ The goal of this project is to visually represent global population distribution
 
 *1. Clone this repository:
 
-  git clone https://github.com/yourusername/world-population-geopandas.git
-  cd world-population-geopandas
+     git clone https://github.com/yourusername/world-population-geopandas.git
+  
+     cd world-population-geopandas
 
 *2.Install the required libraries:
 
-  pip install geopandas matplotlib pandas
+     pip install geopandas matplotlib pandas
+  
 *3. Open the Jupyter Notebook:
 
-  jupyter notebook World_population_using_geopandas.ipynb
+    jupyter notebook World_population_using_geopandas.ipynb
   
 **Usage**
 
 Run each cell in the notebook to:
 
-  * Load the country boundary data.
-  * Filter and normalize the population data.
-  * Generate a world map with population density visualization.
-Example Visualization
+   * Load the country boundary data.
+   * Filter and normalize the population data.
+   * Generate a world map with population density visualization.
+
 
 ![Population Per Country](https://github.com/user-attachments/assets/1047b053-32e1-461d-9121-118c8986dcce)
 
@@ -61,7 +63,9 @@ Example Visualization
 
 .
 ├── World_population_using_geopandas.ipynb  # Main notebook for visualization
+
 ├── README.md                              # Project documentation
+
 └── example_map.png                         # Example output image (if available)
 
 **Contributing**
