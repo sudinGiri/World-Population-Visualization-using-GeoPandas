@@ -63,7 +63,7 @@ Run each cell in the notebook to:
 
 .
 
-├── Data
+├── Data  # Country Population
 
 ├── World_population_using_geopandas.ipynb  # Main notebook for visualization
 
